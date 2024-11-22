@@ -1,0 +1,15 @@
+{
+  "name": "json-server-bravo-soft",
+  "version": "1.0.0",
+  "description": "test-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Tatiana Shipulina",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
