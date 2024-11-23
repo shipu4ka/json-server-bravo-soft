@@ -4,12 +4,12 @@
   "description": "test-server",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "Tatiana Shipulina",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.3"
   }
 }
